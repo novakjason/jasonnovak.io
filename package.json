@@ -1,0 +1,19 @@
+{
+  "name": "jasonnovak.io",
+  "version": "1.0.0",
+  "description": "Portfolio for Jason Novak - Full Stack Developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novakjason/jasonnovak.io.git"
+  },
+  "author": "Jason Novak",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/novakjason/jasonnovak.io/issues"
+  },
+  "homepage": "https://github.com/novakjason/jasonnovak.io#readme"
+}
